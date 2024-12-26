@@ -1,6 +1,6 @@
 ---
-name: feature request
 title: [FEATURE] 
+name: feature request
 description: Suggest an idea for this project
 about: Describe the feature request in detail
 tags: fix-me
