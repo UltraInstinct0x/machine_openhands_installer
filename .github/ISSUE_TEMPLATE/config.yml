@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links: []
+issue_templates:
+  - name: "Bug report"
+    description: "Create a report to help us improve"
+    labels: ["bug"]
+    ref: "a85f80215a0ef882e6955c7b132c3f9f738cd4ba"
+  - name: "Feature request"
+    description: "Suggest an idea for this project"
+    labels: ["enhancement"]
+    ref: "a85f80215a0ef882e6955c7b132c3f9f738cd4ba"
