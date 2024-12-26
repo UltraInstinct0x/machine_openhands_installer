@@ -1,8 +1,8 @@
 ---
-name: feature request
+name: Feature Request
 about: Describe the feature request in detail
 labels: fix-me
-title: [FEATURE] 
+title: [FEATURE]
 tag: fix-me
 ---
 
