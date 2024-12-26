@@ -1,5 +1,5 @@
 ---
-name: [FEATURE] Let's ...
+name: [FEATURE] Lets ...
 description: Suggest an idea for this project
 about: Describe the feature request in detail
 tags: fix-me
