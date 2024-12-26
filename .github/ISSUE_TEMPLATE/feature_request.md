@@ -1,6 +1,7 @@
 ---
 name: [FEATURE]
 description: Suggest an idea for this project
+about: Describe the feature request in detail
 tags: fix-me
 labels: enhancement, fix-me
 ---
