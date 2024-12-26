@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a detailed report to help us improve
 labels: bug
-title: [BUG] -  
+title: [BUG] 
 tag: fix-me
 ---
 
