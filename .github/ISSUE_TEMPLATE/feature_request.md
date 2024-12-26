@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: Feature request
 about: Describe the feature request in detail
 labels: fix-me
 title: [FEATURE]
