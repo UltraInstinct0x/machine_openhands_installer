@@ -1,10 +1,9 @@
 ---
-title: [FEATURE] 
 name: feature request
-description: Suggest an idea for this project
 about: Describe the feature request in detail
-tags: fix-me
-labels: enhancement, fix-me
+labels: fix-me
+title: [FEATURE] 
+tag: fix-me
 ---
 
 **Is your feature request related to a problem? Please describe.**
