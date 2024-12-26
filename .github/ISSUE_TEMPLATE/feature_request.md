@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: feature request
 title: [FEATURE] 
 description: Suggest an idea for this project
 about: Describe the feature request in detail
