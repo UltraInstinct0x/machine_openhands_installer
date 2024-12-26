@@ -1,8 +1,8 @@
 ---
 name: Bug report
 about: Create a detailed report to help us improve
-labels: bug 
-title: fix-me
+labels: bug, fix-me
+title: [BUG] - 
 tag: fix-me
 ---
 
