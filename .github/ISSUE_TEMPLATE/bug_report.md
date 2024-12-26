@@ -1,7 +1,9 @@
 ---
 name: Bug report
-description: Create a detailed report to help us improve
-labels: bug
+about: Create a detailed report to help us improve
+labels: bug 
+title: fix-me
+tag: fix-me
 ---
 
 **Describe the bug**
