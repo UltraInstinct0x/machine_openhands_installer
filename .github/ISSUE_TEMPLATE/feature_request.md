@@ -1,7 +1,8 @@
 ---
-name: Feature request
+name: [FEATURE]
 description: Suggest an idea for this project
-labels: enhancement
+tags: fix-me
+labels: enhancement, fix-me
 ---
 
 **Is your feature request related to a problem? Please describe.**
